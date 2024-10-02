@@ -1,8 +1,8 @@
 ## Hello! 👋
-I'm @YavuzErgul40, a software developer interested in software development and mobile application development. I specialize in developing mobile applications especially with **Android** and **React Native**.
+I'm @YavuzErgul40, a software developer interested in software development and mobile application development. I specialize in developing mobile applications especially with **Android** and **Flutter**.
 
 - 📱 **Android Application Development**: I produce projects with Android technologies such as Firebase, Google Play Services, Retrofit.
-- 🌍 **React Native**: I create cross-platform applications for mobile platforms.
+- 🌍 **Flutter**: I create cross-platform applications for mobile platforms.
 - 🎯 **Project Experiences**: Includes mobile applications and Firebase integration, user authentication, data visualization (MPAndroidChart, AnyChart) and many more.
 - 📊 **Database**: I manage user data and in-app data by working with databases such as Firebase, MS SQL.
 
